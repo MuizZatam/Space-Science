@@ -1,7 +1,7 @@
 # Space Science
 
 This project is a learning resource following Dr. Thomas Albin’s
-Space Science series. I am attempting to study space science through his
+Space Science series. I am attempting to study through his
 series while creating additional explanatory resources of my own using Manim!
 
 The original video series is available on Dr. Thomas Albin’s YouTube channel:  
