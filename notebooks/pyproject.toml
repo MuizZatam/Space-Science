@@ -1,0 +1,9 @@
+[project]
+name = "notebooks"
+version = "0.1.0"
+description = "Notebooks for this repository"
+readme = "../README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "spiceypy>=8.0.2",
+]
